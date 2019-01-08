@@ -2,6 +2,11 @@
 
 FlightJournal is a highly-customizable digital pilot logbook currently under development. It is built on top of the Laravel PHP framework, Postgresql, ReactJS, and Semantic UI.
 
+## Images
+![UI](https://i.imgur.com/Eqx5W3v.png)
+
+![UI 2](https://i.imgur.com/O9ZdXZr.png)
+
 ## Getting started
 
 ### Install the web application
