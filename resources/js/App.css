@@ -1,0 +1,17 @@
+.app-container {
+	padding: 0 5vmax !important;
+}
+
+body {
+	background-color: #f7f7f7;
+}
+
+.px-0 {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.link {
+	color: #002c47;
+	cursor: pointer;
+}
